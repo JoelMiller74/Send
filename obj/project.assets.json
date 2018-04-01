@@ -4192,11 +4192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\git\\rabbitmq\\Send\\Send.csproj",
+      "projectUniqueName": "C:\\git\\rabbitmq\\Send\\Send.csproj",
       "projectName": "Send",
-      "projectPath": "c:\\git\\rabbitmq\\Send\\Send.csproj",
+      "projectPath": "C:\\git\\rabbitmq\\Send\\Send.csproj",
       "packagesPath": "C:\\Users\\Joel Miller\\.nuget\\packages\\",
-      "outputPath": "c:\\git\\rabbitmq\\Send\\obj\\",
+      "outputPath": "C:\\git\\rabbitmq\\Send\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
